@@ -11,7 +11,7 @@ This project is part of my personal development portfolio and serves as a practi
 - **Interactive Experience** — Build user-friendly interactions through Telegram messages and commands.
 - **Extensible Design** — A foundation for experimenting with new features and improvements.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python
 - **Platform:** Telegram
@@ -55,7 +55,7 @@ This project is part of my personal development portfolio and serves as a practi
 
    **Note:** Replace `bot.py` with the actual entry-point filename if your project uses a different one.
 
-## ⚙️ Configuration
+##  Configuration
 
 Before running the bot, make sure the required configuration values are set correctly.
 
